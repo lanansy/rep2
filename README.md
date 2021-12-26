@@ -28,3 +28,5 @@
 > 一级引用文本
 >> 二级引用文本
 >>> 三级引用文本
+
+哈尔滨理工大学[教务在线](http://jwzx.hrbust.edu.cn/academic/index_new.jsp)
